@@ -1,11 +1,11 @@
 # Computer Graphics 203.3710, Summer 2018
 ## Students Team data
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
+Name: 'muhammad mahameed'  
+Student Number: '311466007'
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
+Name: 'ali abed el halim'  
+Student Number: '315987727'
 
 ### Lecturer
 *Roi Poranne*
